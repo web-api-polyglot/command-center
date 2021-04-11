@@ -1,0 +1,3 @@
+[submodule "implementations/rocket-app"]
+	path = implementations/rocket-app
+	url = https://github.com/web-api-polyglot/rocket-app
